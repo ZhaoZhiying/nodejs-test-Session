@@ -14,5 +14,3 @@ node server 8888
 
 打开 server.js，添加 if else
 重新运行 node server.js 8888
-# nodejs-test-Cookie
-# nodejs-test-Session
